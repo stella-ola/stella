@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Stella_ola</title>
+    <link>https://gohugo-theme-ananke.pages.dev/</link>
+    <description>Recent content in Data Science Portfolio on Stella_ola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT 1 :Amazon Reviews Analysis</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-2/</link>
+      <pubDate>Fri, 16 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-2/</guid>
+      <description>INTRODUCTION Amazon Review sentiment analysis with NLP. This is a Sentiment Analysis project using Natural Language Processing(NLP).The data contained the people&amp;rsquo;s revies on amazons products, labels(the sentiment of people which are in zero&amp;rsquo;s (0) and one&amp;rsquo;s (1) where zero means the person is angry or sad or basically something negative while the one means a positive review and the id(which of course is irrelevant to us). The aim of this project is to compare the Naïve Bays model and the Logistic regression model to test and train the dataset to find the unknown class(data) prediction.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 2 :Twitter sentiment analysis</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-1/</link>
+      <pubDate>Fri, 16 Sep 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-1/</guid>
+      <description>INTRODUCTION Twitter sentiment analysis with NLP. This is a Sentiment Analysis project using Natural Language Processing(NLP). Here data was obtained from Kaggle which contained the tweets(tweets made by thousands of people), labels(the sentiment of people which are in zero&amp;rsquo;s (0) and one&amp;rsquo;s (1) where zero means the person is angry or sad or basically something negative while the one means a positive tweet and the id(which of course is irrelevant to us).</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 3 :Admission Chances for IVY league University</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-3/</guid>
+      <description>INTRODUCTION This is a project showing chances of student being admitted and here linear regression was used to predict those chances. Linear model performance was really good for the prediction which we can see on the image,where (&amp;gt;0.8) was the high chance of admission while the rest scatterd below.
+RESULT Click to see the full project. Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gohugo-theme-ananke.pages.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/about/</guid>
+      <description>My name is Mbila-Uma Stella Ola and I am very passionate about data science, product management, and sentiment analysis(NLP). I have a background in physics and a minor in geophysics. my spark for data science started when I had to do a project with my professor about seismic processing where we had to collect, clean, analyze, and predict the data. it was an exciting experience because it broaden my knowledge about data and what it entails.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gohugo-theme-ananke.pages.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform URL Email: mbilauma@gmail.com LinkedIn: https://www.linkedin.com/in/stella-mbila-uma GitHub: https://github.com/stella-ola?tab=repositories </description>
+    </item>
+    
+  </channel>
+</rss>
